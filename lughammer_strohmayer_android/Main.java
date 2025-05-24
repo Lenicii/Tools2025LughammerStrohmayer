@@ -3,5 +3,7 @@ public class Main {
         System.out.println("Hello World");
         System.out.println("Aenderung von Member1");
     }
-    public void thisIsANewMethod() { }
+    public void thisIsANewMethod() {
+    System.out.println("Aenderung von Member2");  
+    }
 }
