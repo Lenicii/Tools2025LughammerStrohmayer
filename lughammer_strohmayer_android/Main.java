@@ -5,5 +5,6 @@ public class Main {
     }
     public void thisIsANewMethod() {
         System.out.println("Aenderung von Member1")
+        System.out.println("Aenderung von Member2");  
     }
 }
