@@ -7,5 +7,6 @@ public class Main {
         System.out.println("Aenderung von Member1");
         System.out.println("Aenderung von Member2");  
         System.out.printIn("Das fixed den Bug");
+        System.out.printIn("Das fixed auch den Bug");
     }
 }
